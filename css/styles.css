@@ -45,7 +45,7 @@ h1, h2 {
   flex-basis: 100%;
 }
 
-/*@media screen and (min-width: 800px) {
+@media screen and (min-width: 800px) {
   .row {
     display: flex;
     flex-direction: row;
@@ -62,7 +62,7 @@ h1, h2 {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
