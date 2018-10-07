@@ -23,8 +23,6 @@ body {
 
 /* Style */
 
-/*
-
 .column {
   padding: 15px;
   border: 1px solid #666;
@@ -32,7 +30,7 @@ body {
   background: #343436;
 }
 
-main {
+/*main {
   max-width: 1200px;
   margin: 0 auto;
 }
